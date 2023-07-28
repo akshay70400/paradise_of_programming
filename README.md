@@ -1,2 +1,2 @@
 # alps_of_programming
-Python, SQL, Numpy, Pandas, Scipy, 
+Python, SQL, Numpy, Pandas, Scipy, Matplotlib, Seaborn, Plotly, ggplot, shapely
