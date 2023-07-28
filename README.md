@@ -1,2 +1,6 @@
-### paradise_of_programming
-Python, SQL, Numpy, Pandas, Scipy, Matplotlib, Seaborn, Plotly, ggplot, shapely
+### Prograaming topics covered : -
+
+    Programming - Python, 
+    Database - SQL, 
+    Data Wrangling - Numpy, Pandas, Scipy, 
+    Data visualization - Matplotlib, Seaborn, Plotly, ggplot, shapely,
