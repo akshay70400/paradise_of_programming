@@ -1,4 +1,4 @@
-### Prograaming topics covered : -
+### Programming topics covered : -
 
     Programming - Python, 
     Database - SQL, 
