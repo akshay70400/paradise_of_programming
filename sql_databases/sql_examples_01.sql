@@ -342,7 +342,13 @@ ORDER BY 2
         limit 1 offset 1
         
         -- using rank function
-        select 
+        select *
+        from (
+            select *, 
+                    ROW_NUMBER() over(order by total desc) AS rnk
+            from Invoice i
+        ) a
+        where rnk=2;
         
         -- using subquery
         
